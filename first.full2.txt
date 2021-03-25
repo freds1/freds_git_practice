@@ -1,0 +1,14 @@
+Hello, this is the first message
+Now, this is the second message
+
+And finally, the last message...
+
+Hello, this is the first message
+Now, this is the second message
+
+And finally, the last message...
+
+
+This is additional text added after the fact of combining the other "first." files.
+
+Attempting to do multiple Git actions with this file, such as showing mstatus and such.
